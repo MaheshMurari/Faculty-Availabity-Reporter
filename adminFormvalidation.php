@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: MSaqib
- * Date: 02-09-2016
- * Time: 23:28
- */
+
 
 include 'connection.php';
 if (isset($_POST['UN']) && isset($_POST['PASS'])) {
